@@ -19,7 +19,7 @@ curl localhost:8080/apis/k8s.startkubernetes.com/v1/namespaces/default/pdfdocume
 ```
 
 # task2
-> youtube video: https://www.youtube.com/watch?v=q7b23612pSc
+> [youtube video](https://www.youtube.com/watch?v=q7b23612pSc)
 
 ```shell
 mkdir pdfcontroller
@@ -34,8 +34,8 @@ kubectl apply -f config/crd/bases/k8s.startkubernetes.com.my.domain_pdfdocuments
 
 # task3
 
-> 1. youtuebe viedo: How to build a Kubernetes Webhook | Admission controllers - YouTube: https://www.youtube.com/watch?v=1mNYSn2KMZk
-> 2. sourse code: https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/kubernetes/admissioncontrollers/introduction
+> 1. [youtuebe viedo: How to build a Kubernetes Webhook | Admission controllers](https://www.youtube.com/watch?v=1mNYSn2KMZk)
+> 2. [sourse code](https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/kubernetes/admissioncontrollers/introduction)
 
 
 ```shell
